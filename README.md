@@ -5,9 +5,9 @@ the shipped Shopify storefront experience: a conversational stylist, PDP
 virtual try-on gateway, saved looks surface, profile page, wardrobe manager, and
 creator story-share discount loop.
 
-The current production surface is Shopify-first. Historical standalone Vibe
-docs may still exist in this repo, but [`docs/CURRENT_SYSTEM.md`](docs/CURRENT_SYSTEM.md)
-is the source of truth when documents disagree.
+The current production surface is Shopify-first. 
+
+Try it yourself: https://thesigmavibe.shop/apps/vibe/style
 
 ## Current Shipped System
 
