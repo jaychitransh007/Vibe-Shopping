@@ -61,57 +61,6 @@ Active customer routes:
 | Data | Supabase migrations under `supabase/migrations/`; persistent media mounted on the Fly app volume |
 | Prompts and knowledge | `prompt/`, `knowledge/`, and `archetypes/` |
 
-## Local Development
-
-Use Python 3.11+ for the engine. Older system Python versions can fail on modern
-typing syntax before tests run.
-
-Engine setup:
-
-```bash
-python3 -m pip install -r requirements.txt
-cp .env.example .env.local
-```
-
-Run the engine:
-
-```bash
-APP_ENV=local python3 run_agentic_application.py --reload --port 8010
-```
-
-Validate the engine:
-
-```bash
-python3 -m pytest tests/ -v
-```
-
-Vibe app setup:
-
-```bash
-cd vibe-app
-npm install
-```
-
-Run the Vibe app:
-
-```bash
-npm run dev
-```
-
-Validate the Vibe app:
-
-```bash
-npm test
-npm run lint
-npm run build
-```
-
-`npm run dev` uses `shopify app dev`, so it expects Shopify CLI auth and the app
-configuration to be linked. For app-proxy behavior, use the Shopify dev tunnel
-rather than only opening the Remix server directly.
-
-For validation commands, run them from `vibe-app/`.
-
 ## Deployment
 
 | Component | Command / owner |
