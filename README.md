@@ -85,8 +85,6 @@ The system is intentionally traceable across Vercel, Fly, and Supabase.
 - Engine metrics are exposed from `/metrics`.
 - Recommendation-card signals emit `vibe_recommendation_signal_*` logs in the
   app and `recommendation_interaction_outcome` logs in the engine.
-- Core operational panels and log event names are documented in
-  [`docs/OPERATIONS.md`](docs/OPERATIONS.md).
 
 ## Documentation Map
 
