@@ -9,6 +9,12 @@ The current production surface is Shopify-first.
 
 Try it yourself: https://thesigmavibe.shop/apps/vibe/style
 
+## Demo
+1. Getting started: https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODY4NTc3NTMwNTQ4NDA0?story_media_id=3913616707499443110&igsh=dXVsNDRtMHJqNG5t
+2. How it works: https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDY5MDIwMDA5NjkxODM0?story_media_id=3913622270497123874&igsh=MXA1ZmZ5dDhmNzN5OA%3D%3D
+3. Share to earn discount: https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDgwMTIzOTAzMjE3ODgx?story_media_id=3913790138220756654&igsh=MTExMm1lam9ib3NneQ%3D%3D
+
+
 ## Current Shipped System
 
 | Surface | Current behavior |
