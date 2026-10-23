@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+  <title id="title">Vibe</title>
+  <desc id="desc">A conversation about what to wear.. Personal context   /   Outfit discovery   /   Product evidence</desc>
+  <rect width="1440" height="420" rx="24" fill="#111b29"/>
+  <rect x="48" y="52" width="5" height="316" rx="2" fill="#e4c394"/>
+  <text x="88" y="95" fill="#e4c394" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="3">PRODUCT CASE STUDY / 01</text>
+  <text x="84" y="184" fill="#f7f2e9" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Vibe</text>
+  <text x="88" y="241" fill="#d2dae6" font-family="Arial, Helvetica, sans-serif" font-size="29">A conversation about what to wear.</text>
+  <path d="M88 292 H1352" stroke="#344052"/>
+  <text x="88" y="340" fill="#b4c0d0" font-family="Arial, Helvetica, sans-serif" font-size="22">Personal context   /   Outfit discovery   /   Product evidence</text>
+  <g transform="translate(1240 67)" stroke="#e4c394" fill="none" stroke-width="2" opacity="0.8">
+    <rect width="86" height="54" rx="12"/>
+    <path d="M43 54 V81 H-2 M43 81 H88"/>
+    <circle cx="-7" cy="81" r="5" fill="#e4c394"/>
+    <circle cx="93" cy="81" r="5" fill="#e4c394"/>
+  </g>
+</svg>

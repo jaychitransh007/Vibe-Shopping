@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="810" viewBox="0 0 1200 810" role="img" aria-labelledby="title desc">
+<title id="title">Vibe conceptual architecture</title>
+<desc id="desc">The browser connects to a server boundary and a Python recommendation engine. The engine uses profile and conversation state, style knowledge, and retailer evidence. Separate evaluation lanes inspect contracts and user journeys.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#778da8"/></marker></defs>
+<rect width="1200" height="810" rx="22" fill="#111b29"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="50" y="57" fill="#e4c394" font-size="17" font-weight="700" letter-spacing="2">VIBE / SYSTEM OVERVIEW</text>
+<text x="50" y="103" fill="#f7f2e9" font-size="32" font-weight="700">From conversation to an explained response</text>
+<rect x="50" y="145" width="1100" height="98" rx="12" fill="#1e2c3f" stroke="#3a4d65"/>
+<text x="76" y="184" fill="#f7f2e9" font-size="25" font-weight="700">Consumer interface</text>
+<text x="76" y="218" fill="#c7d2e1" font-size="20">Profile and onboarding · Chat · Outfit cards · Saved looks</text>
+<path d="M600 243V277" stroke="#778da8" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="50" y="286" width="1100" height="84" rx="12" fill="#1e2c3f" stroke="#3a4d65"/>
+<text x="76" y="320" fill="#f7f2e9" font-size="24" font-weight="700">Server boundary</text>
+<text x="76" y="350" fill="#c7d2e1" font-size="20">Session handling · Allowed inputs · Authenticated engine requests</text>
+<path d="M600 370V404" stroke="#778da8" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="50" y="413" width="1100" height="105" rx="12" fill="#29323c" stroke="#e4c394"/>
+<text x="76" y="449" fill="#f7f2e9" font-size="25" font-weight="700">Python recommendation engine</text>
+<text x="76" y="485" fill="#e4d9c9" font-size="20">Intent and constraints → Planning → Candidates and outfits → Response</text>
+<path d="M600 518V544H228V566 M600 544V566 M600 544H972V566" fill="none" stroke="#778da8" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="50" y="579" width="348" height="108" rx="12" fill="#1e2c3f" stroke="#3a4d65"/>
+<text x="72" y="615" fill="#f7f2e9" font-size="22" font-weight="700">Profile and history</text>
+<text x="72" y="649" fill="#c7d2e1" font-size="19">Preferences · Conversation</text>
+<rect x="426" y="579" width="348" height="108" rx="12" fill="#1e2c3f" stroke="#3a4d65"/>
+<text x="448" y="615" fill="#f7f2e9" font-size="22" font-weight="700">Style knowledge</text>
+<text x="448" y="649" fill="#c7d2e1" font-size="19">Rules · Prompts · Configuration</text>
+<rect x="802" y="579" width="348" height="108" rx="12" fill="#1e2c3f" stroke="#3a4d65"/>
+<text x="824" y="615" fill="#f7f2e9" font-size="22" font-weight="700">Retailer evidence</text>
+<text x="824" y="649" fill="#c7d2e1" font-size="19">Acquisition · Product checks</text>
+<path d="M50 723H1150" stroke="#344052"/>
+<text x="50" y="760" fill="#a5dbca" font-size="19">Evaluation: contracts · frozen fixtures · pipeline · server integration · browser journeys</text>
+<text x="50" y="789" fill="#9eafc4" font-size="16">Conceptual component map. Executed routes vary by request and available evidence.</text>
+</g></svg>
