@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="560" viewBox="0 0 1440 560" role="img" aria-labelledby="title desc"><title id="title">Vibe — get dressed for your life</title><desc id="desc">An editorial illustration of a shirt and trousers. Your plans, your wardrobe, your next favorite look.</desc>
+<rect width="1440" height="560" rx="24" fill="#f8f5f0"/>
+<path d="M48 70H1392M48 490H1392" stroke="#d9d2ca"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#493543"><text x="66" y="46" font-size="18" letter-spacing="4">A PERSONAL STYLIST, IN YOUR CORNER</text><text x="66" y="532" font-size="21">FIND A LOOK. MAKE IT YOURS.</text></g>
+<text x="60" y="202" fill="#493543" font-family="Georgia, Times New Roman, serif" font-size="138" letter-spacing="-7">Vibe.</text>
+<text x="66" y="293" fill="#252320" font-family="Georgia, Times New Roman, serif" font-size="61">Get dressed for</text>
+<text x="66" y="367" fill="#493543" font-family="Georgia, Times New Roman, serif" font-size="68" font-style="italic">your life.</text>
+<text x="68" y="433" fill="#625d58" font-family="Arial, Helvetica, sans-serif" font-size="24">Your plans. Your wardrobe. Your next favorite look.</text>
+<g transform="translate(933 102)">
+<rect x="4" y="18" width="352" height="343" rx="144" fill="#efdde2" transform="rotate(8 180 185)"/>
+<path d="M45 96L106 60L137 80L168 60L229 96L199 149L170 133V238H104V133L75 149Z" fill="#fffefa" stroke="#493543" stroke-width="3" stroke-linejoin="round" transform="rotate(-12 137 149)"/>
+<path d="M196 171H286L301 354H262L240 232L223 354H184Z" fill="#b8a2b2" stroke="#493543" stroke-width="3" stroke-linejoin="round" transform="rotate(9 242 263)"/>
+<path d="M18 317Q-23 300-6 274Q4 257 22 280Q26 251 46 258Q74 270 18 317Z" fill="none" stroke="#493543" stroke-width="3"/>
+<path d="M311 7L315 24L332 28L315 33L311 50L306 33L289 28L306 24Z" fill="#493543"/>
+<circle cx="-18" cy="31" r="35" fill="#f7e8b7"/>
+<text x="-18" y="25" text-anchor="middle" fill="#493543" font-family="Georgia, serif" font-size="17" font-style="italic">made</text><text x="-18" y="44" text-anchor="middle" fill="#493543" font-family="Georgia, serif" font-size="17" font-style="italic">for you</text>
+</g></svg>

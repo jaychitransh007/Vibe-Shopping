@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="580" viewBox="0 0 960 580" role="img" aria-labelledby="title desc"><title id="title">Screenshot placeholder: Picture your next look</title><desc id="desc">This is a clearly labeled media placeholder, not a product screenshot. A generated preview of an eligible outfit.</desc>
+<rect width="960" height="580" rx="18" fill="#f8f5f0"/>
+<rect x="26" y="26" width="908" height="528" rx="12" fill="#fffefa" stroke="#d9d2ca" stroke-width="2"/>
+<path d="M26 90H934" stroke="#d9d2ca"/>
+<text x="52" y="70" fill="#493543" font-family="Georgia, Times New Roman, serif" font-size="34">Vibe.</text>
+<text x="905" y="68" text-anchor="end" fill="#625d58" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">04 / PRODUCT TOUR</text>
+<rect x="368" y="125" width="224" height="115" rx="18" fill="#f7e8b7"/>
+<g fill="none" stroke="#493543" stroke-width="3"><rect x="449" y="149" width="62" height="62" rx="9"/><circle cx="467" cy="167" r="5"/><path d="M453 201L469 186L481 195L494 178L508 201"/></g>
+<text x="480" y="303" text-anchor="middle" fill="#252320" font-family="Georgia, Times New Roman, serif" font-size="48">Picture your next look</text>
+<text x="480" y="354" text-anchor="middle" fill="#625d58" font-family="Arial, Helvetica, sans-serif" font-size="24">A generated preview of an eligible outfit.</text>
+<rect x="201" y="399" width="558" height="53" rx="26" fill="#f7e8b7"/>
+<text x="480" y="433" text-anchor="middle" fill="#493543" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.6">SCREENSHOT PLACEHOLDER</text>
+<text x="480" y="508" text-anchor="middle" fill="#625d58" font-family="Arial, Helvetica, sans-serif" font-size="20">Real product capture coming soon</text></svg>
